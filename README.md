@@ -1,1 +1,2 @@
-# 拍卖系统的后端服务
+# java server
+ot's database part for online auction system
